@@ -1,0 +1,3 @@
+nanodjango
+python-docx
+gunicorn

@@ -1,0 +1,10 @@
+[project]
+name = "nanodjango-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "nanodjango>=0.9.2",
+    "python-docx>=1.1.2",
+]
